@@ -19,19 +19,6 @@
   Software Engineer crafting polished web experiences and low-level tools.
 </p>
 
-<p align="center">
-  <a href="https://dhanushhv.com">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/dhanush-h-v-1b85b41b2/">LinkedIn</a> •
-  <a href="https://twitter.com/dhanushh48">Twitter</a> •
-  <a href="https://instagram.com/dhanushh48">Instagram</a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DHANUSH-web&label=Profile%20Views&color=0f766e&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/DHANUSH-web?label=Followers&style=flat&color=1d4ed8" alt="followers" />
-  <img src="https://img.shields.io/github/stars/DHANUSH-web?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=f59e0b" alt="stars" />
-</p>
-
 ---
 
 ## Overview
