@@ -1,8 +1,8 @@
 
       <svg
-        width="312"
-        height="150"
-        viewBox="0 0 312 150"
+        width="400"
+        height="140"
+        viewBox="0 0 400 140"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -12,7 +12,7 @@
         <desc id="descId"></desc>
         <style>
           .header {
-            font: 600 17px 'Segoe UI', Ubuntu, Sans-Serif;
+            font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
             fill: #79C0FF;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
@@ -21,11 +21,25 @@
             .header { font-size: 15.5px; }
           }
           
-    .description { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #C9D1D9 }
+    .description {
+      font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif;fill: #C9D1D9;
+      
+    }
     .gray { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #C9D1D9 }
-    .icon { fill: #3FB950 }
     .badge { font: 600 11px 'Segoe UI', Ubuntu, Sans-Serif; }
     .badge rect { opacity: 0.2 }
+
+    .stat { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #C9D1D9 }
+    .stagger {
+      opacity: 0;
+      animation: fadeInAnimation 0.3s ease-in-out forwards;
+    }
+    .not_bold { font-weight: 400 }
+    .bold { font-weight: 700 }
+    .icon {
+      fill: #3FB950;
+      display: block;
+    }
   
 
           
@@ -59,7 +73,7 @@
           rx="4.5"
           height="99%"
           stroke="#e4e2e2"
-          width="311"
+          width="399"
           fill="#0D1117"
           stroke-opacity="0"
         />
@@ -67,7 +81,7 @@
         
       <g
         data-testid="card-title"
-        transform="translate(25, 32)"
+        transform="translate(25, 35)"
       >
         <g transform="translate(0, 0)">
       <svg
@@ -94,16 +108,16 @@
 
         <g
           data-testid="main-card-body"
-          transform="translate(0, 52)"
+          transform="translate(0, 55)"
         >
           
     
 
-    <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">A Logger library written in C Programming</tspan><tspan dy="1.2em" x="25">to provide efficient Logger to keep an eye</tspan><tspan dy="1.2em" x="25">on your application runtime</tspan>
+    <text class="description" x="25" y="-5"> 
+      <tspan dy="1.2em" x="25">A Logger library written in C Programming to provide</tspan><tspan dy="1.2em" x="25">efficient Logger to keep an eye on your application runtime</tspan>
     </text>
 
-    <g transform="translate(30, 75)">
+    <g transform="translate(30, 65)">
       <g transform="translate(0, 0)">
     <g data-testid="primary-lang">
       <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#555555" />
@@ -111,6 +125,11 @@
     </g>
     </g>
     </g>
+    
+  <svg x="0" y="0"><g transform="translate(-3, 88)">
+      
+    </g></svg>
+    
   
         </g>
       </svg>
