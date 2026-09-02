@@ -1,162 +1,184 @@
+<!--
+  you opened the source. of course you did.
+
+  $ mux whoami
+  dhanush h v · bangalore
+  ships UI like it has to feel expensive,
+  and CLIs like they have to feel instant.
+-->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hey%2C+I'm+Dhanush+%F0%9F%91%8B;Software+Engineer+%7C+Systems+%2B+Web" alt="Typing SVG" />
+```
+dhanush@bangalore:~$ mux whoami
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=1200&color=79C0FF&center=true&vCenter=true&width=680&lines=Dhanush+H+V;pixel-perfect+UI+%2B+bare-metal+CLIs" alt="Dhanush H V" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Somewhere+between+pixel-perfect+UI+and+bare-metal+performance;Building+fast%2C+minimal+%26+meaningful+things;Next.js+%E2%9D%A4%EF%B8%8F+TypeScript+%E2%9D%A4%EF%B8%8F+Python+%E2%9D%A4%EF%B8%8F+Rust" alt="Subheading" />
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=DHANUSH-web&style=flat-square&color=58A6FF&label=Profile+Views)](https://github.com/DHANUSH-web)
-[![Portfolio](https://img.shields.io/badge/Portfolio-dhanushhv.com-58A6FF?style=flat-square&logo=vercel&logoColor=white)](https://dhanushhv.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanush-h-v-1b85b41b2/)
-[![Instagram](https://img.shields.io/badge/Instagram-@dhanushh48-1DA1F2?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/dhanushh48)
+[![Portfolio](https://img.shields.io/badge/dhanushhv.com-0D1117?style=for-the-badge&logo=vercel&logoColor=79C0FF)](https://dhanushhv.com)
+[![mux](https://img.shields.io/badge/themux.dev-0D1117?style=for-the-badge&logo=gnubash&logoColor=3FB950)](https://themux.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/dhanush-h-v-1b85b41b2/)
+[![X](https://img.shields.io/badge/@dhanushh48-0D1117?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/dhanushh48)
+[![Views](https://komarev.com/ghpvc/?username=DHANUSH-web&style=for-the-badge&color=238636&label=profile+views)](https://github.com/DHANUSH-web)
 
 </div>
 
-<p align="center">
-  Software Engineer crafting polished web experiences and low-level tools.
-</p>
+```text
+USAGE:     dhanush <COMMAND>
+OS:        darwin / linux / the browser
+LOCALE:    Bangalore, IST
+STACK:     Next.js · TypeScript · Rust · C/C++ · Python
+
+COMMANDS:
+  web        polished product UI that still loads fast
+  systems    CLIs, headers, and tools that stay out of the way
+  ship       small surface area, high signal, no ceremony
+```
+
+I write interfaces that feel intentional and tools that feel instantaneous. Most weeks that looks like `Next.js` on one monitor and `Rust` / `C++` on the other.
 
 ---
 
-## Overview
+## Now compiling
 
-I build modern web products with `Next.js`, `React`, and `TypeScript`, and I also enjoy working closer to the metal with `C`, `C++`, and `Rust`.
+- **mux** — Cargo-like workflow for C/C++: scaffold, build, run, test, deps. One CLI, written in Rust.
+- Lightweight **C / C++ loggers** that stay cheap at runtime.
+- Web products that treat performance as a design decision, not a later ticket.
 
-That mix of frontend precision and systems-level performance is where I do my best work.
+<div align="center">
 
-## Current Focus
+**Install mux**
 
-- Building clean, fast interfaces that feel intentional
-- Developing lightweight developer tools for the C/C++ ecosystem
-- Shipping software that balances usability, performance, and maintainability
+```bash
+curl -fsSL https://themux.dev/install.sh | sh
+```
 
-## Open Source Activity
+<sub>Windows: <code>irm https://themux.dev/install.ps1 | iex</code></sub>
 
-I contribute through consistent commits, pull requests, and reviews across open-source projects, not only within my own repositories.
+</div>
 
-<p align="center">
-  <a href="https://github.com/search?q=author%3ADHANUSH-web+is%3Apr&type=pullrequests">
-    <img src="https://img.shields.io/badge/View%20My-Pull%20Requests-0f766e?style=for-the-badge&logo=github" alt="View pull requests" />
-  </a>
-  <a href="https://github.com/DHANUSH-web?tab=overview">
-    <img src="https://img.shields.io/badge/View%20My-Commit%20Activity-1d4ed8?style=for-the-badge&logo=git" alt="View commit activity" />
-  </a>
-</p>
+---
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DHANUSH-web&theme=github" alt="Profile details" />
-</p>
+## Featured
 
-<p align="center">
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DHANUSH-web&theme=github&utcOffset=5.5" alt="Productive time" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DHANUSH-web&theme=github" alt="Repos per language" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## GitHub Snapshot
+**Systems**
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DHANUSH-web&show_icons=true&hide_border=true&title_color=0f172a&text_color=334155&icon_color=0f766e&bg_color=ffffff" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DHANUSH-web&hide_border=true&background=ffffff&ring=0f766e&fire=f59e0b&currStreakLabel=0f172a&sideLabels=334155&dates=64748b" alt="GitHub streak" />
-</p>
+- [mux](https://github.com/DHANUSH-web/mux) — Rust CLI for C/C++ project workflow
+- [c-logger](https://github.com/DHANUSH-web/c-logger) — header-only C logger
+- [cpp-logger](https://github.com/DHANUSH-web/cpp-logger) — header-only C++ logger
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHANUSH-web&layout=compact&hide_border=true&title_color=0f172a&text_color=334155&bg_color=ffffff" alt="Top languages" />
-</p>
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DHANUSH-web&bg_color=ffffff&color=0f172a&line=0f766e&point=f59e0b&area=true&hide_border=true" alt="Contribution graph" />
-</p>
+**Web**
 
-## Repository Highlights
+- [themux.dev](https://themux.dev) — mux’s product site (Next.js)
+- [dhanushhv.com](https://dhanushhv.com) — personal site
+- [Orbital Radar](https://orbital-radar-beta.vercel.app) — live LEO satellite tracking
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/DHANUSH-web/mux">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=DHANUSH-web&repo=mux&hide_border=true&title_color=0f172a&text_color=334155&icon_color=0f766e&bg_color=ffffff" alt="mux repo card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DHANUSH-web&repo=mux&hide_border=true&bg_color=0D1117&title_color=79C0FF&text_color=C9D1D9&icon_color=3FB950" alt="mux" />
   </a>
   <a href="https://github.com/DHANUSH-web/c-logger">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=DHANUSH-web&repo=c-logger&hide_border=true&title_color=0f172a&text_color=334155&icon_color=0f766e&bg_color=ffffff" alt="c-logger repo card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DHANUSH-web&repo=c-logger&hide_border=true&bg_color=0D1117&title_color=79C0FF&text_color=C9D1D9&icon_color=3FB950" alt="c-logger" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/DHANUSH-web/cpp-logger">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=DHANUSH-web&repo=cpp-logger&hide_border=true&title_color=0f172a&text_color=334155&icon_color=0f766e&bg_color=ffffff" alt="cpp-logger repo card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DHANUSH-web&repo=cpp-logger&hide_border=true&bg_color=0D1117&title_color=79C0FF&text_color=C9D1D9&icon_color=3FB950" alt="cpp-logger" />
+  </a>
+</p>
+
+<details>
+<summary><strong>More on the web</strong></summary>
+<br/>
+
+- [YouTube Explorer](https://yexplorer.vercel.app) — channel exploration via the YouTube API
+- [NFT Showcase](https://savagenft.vercel.app) — discovery UI on the OpenSea API
+- [API Parser](https://api-parser.vercel.app) — poke an API before it pokes prod
+- [PyCOL](https://pycol.netlify.app) — color explorer · [Qt desktop](https://github.com/DHANUSH-web/pycol-python-qt)
+- [Earlier portfolio](https://dhv.vercel.app) — React + Chakra UI
+
+</details>
+
+---
+
+## Toolchain
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,python,rust,c,cpp,java,mongodb,firebase,vercel,linux,git" alt="toolchain" />
+</p>
+
+<p align="center">
+  <sub>TypeScript · Next.js · React · Tailwind · Node · Python · Rust · C · C++ · Java · MongoDB · Firebase · Vercel · Linux · Git</sub>
+</p>
+
+---
+
+## Signal
+
+<p align="center">
+  <a href="https://github.com/search?q=author%3ADHANUSH-web+is%3Apr&type=pullrequests">
+    <img src="https://img.shields.io/badge/pull_requests-scan_the_trail-238636?style=for-the-badge&logo=github" alt="Pull requests" />
+  </a>
+  <a href="https://github.com/DHANUSH-web?tab=overview">
+    <img src="https://img.shields.io/badge/commits-the_quiet_part-1F6FEB?style=for-the-badge&logo=git&logoColor=white" alt="Commit activity" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://themux.dev">
-    <img src="https://img.shields.io/badge/Web-themux.dev-1d4ed8?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="themux.dev badge" />
-  </a>
-  <a href="https://dhanushhv.com">
-    <img src="https://img.shields.io/badge/Web-Personal%20Portfolio-1d4ed8?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="personal portfolio badge" />
-  </a>
-  <a href="https://orbital-radar-beta.vercel.app">
-    <img src="https://img.shields.io/badge/Web-Orbital%20Radar-1d4ed8?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="orbital radar badge" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=DHANUSH-web&show_icons=true&hide_border=true&bg_color=0D1117&title_color=79C0FF&text_color=C9D1D9&icon_color=3FB950&ring_color=3FB950" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=DHANUSH-web&hide_border=true&background=0D1117&ring=3FB950&fire=D29922&currStreakLabel=79C0FF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" alt="GitHub streak" />
 </p>
 
-## Tech Stack
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHANUSH-web&layout=compact&hide_border=true&bg_color=0D1117&title_color=79C0FF&text_color=C9D1D9" alt="Top languages" />
+</p>
 
-#### Languages
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DHANUSH-web&bg_color=0D1117&color=C9D1D9&line=3FB950&point=79C0FF&area=true&hide_border=true&area_color=3FB950" alt="Contribution graph" />
+</p>
 
-#### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
-![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakraui&logoColor=white)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DHANUSH-web&theme=github_dark" alt="Profile details" />
+</p>
 
-#### Backend & Cloud
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DHANUSH-web&theme=github_dark&utcOffset=5.5" alt="Productive hours (IST)" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DHANUSH-web&theme=github_dark" alt="Repos per language" />
+</p>
 
-#### Tools
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![WSL](https://img.shields.io/badge/WSL-0078D4?style=flat-square&logo=linux&logoColor=white)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DHANUSH-web/DHANUSH-web/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DHANUSH-web/DHANUSH-web/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/DHANUSH-web/DHANUSH-web/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
-## Featured Work
+---
 
-- **Systems and tooling**
-- [mux](https://github.com/DHANUSH-web/mux) - Fast, lightweight, open-source CLI tooling for the C/C++ community, built with Rust.
-- [c-logger](https://github.com/DHANUSH-web/c-logger) - Minimal C logger header with buffer management.
-- [cpp-logger](https://github.com/DHANUSH-web/cpp-logger) - Minimal C++ logger header with buffer management.
-- **Web development**
-- [themux.dev](https://themux.dev) - Official product website for `mux`, focused on a clear developer-facing web experience.
-- [Personal Portfolio](https://dhanushhv.com) - Personal website built with Next.js.
-- [Orbital Radar](https://orbital-radar-beta.vercel.app) - Full-stack app for tracking real-time satellites in low Earth orbit.
+<div align="center">
 
-## Web Projects
+```
+dhanush@bangalore:~$ mux ping
+pong · dhanushhv.com/contact
+```
 
-- [Personal Portfolio](https://dhanushhv.com) - Personal website built with Next.js.
-- [Orbital Radar](https://orbital-radar-beta.vercel.app) - Full-stack app for tracking real-time satellites in low Earth orbit.
-- [YouTube Explorer](https://yexplorer.vercel.app) - Explore YouTube channels through the YouTube API.
-- [NFT Showcase Platform](https://savagenft.vercel.app) - NFT discovery experience powered by the OpenSea API.
-- [API Parser](https://api-parser.vercel.app) - Simple API exploration tool for testing responses before production use.
-- [Old Portfolio](https://dhv.vercel.app) - Earlier portfolio built with React and Chakra UI.
-- [PyCOL-React](https://pycol.netlify.app) - Early React project for color exploration in UI work.
-- [PyCOL-Qt](https://github.com/DHANUSH-web/pycol-python-qt) - Desktop Qt version of PyCOL.
+[website](https://dhanushhv.com/contact) · [linkedin](https://www.linkedin.com/in/dhanush-h-v-1b85b41b2/) · [x](https://twitter.com/dhanushh48) · [instagram](https://instagram.com/dhanushh48)
 
-## Contact
+<sub>built like a CLI. meant to be used.</sub>
 
-- Website: [dhanushhv.com/contact](https://dhanushhv.com/contact)
-- LinkedIn: [dhanush-h-v](https://www.linkedin.com/in/dhanush-h-v-1b85b41b2/)
-- Twitter: [@dhanushh48](https://twitter.com/dhanushh48)
-- Instagram: [@dhanushh48](https://instagram.com/dhanushh48)
+</div>
