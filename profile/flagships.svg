@@ -29,7 +29,7 @@
   <!-- Section Header Inside SVG -->
   <g transform="translate(24, 24)">
     <circle cx="6" cy="6" r="4" fill="#3fb950"/>
-    <text x="18" y="10" fill="url(#flagTitleGrad)" font-size="13" font-weight="800" class="f-sans" letter-spacing="1">FLAGSHIP ARSENAL · SYSTEMS, APPS &amp; WEB PLATFORMS</text>
+    <text x="18" y="10" fill="url(#flagTitleGrad)" font-size="13" font-weight="800" class="f-sans" letter-spacing="1">FLAGSHIP WORKS · SYSTEMS, APPS &amp; WEB PLATFORMS</text>
   </g>
 
   <!-- Row 1: DeepCleanMyMac & dcmmlib -->
@@ -38,8 +38,8 @@
     <text x="16" y="26" class="f-sans c-title"> DeepCleanMyMac</text>
     <rect x="290" y="12" width="85" height="18" rx="9" fill="#1f6feb" fill-opacity="0.2" stroke="#388bfd" stroke-opacity="0.4"/>
     <text x="332" y="25" fill="#79c0ff" class="c-tag" text-anchor="middle">macOS App</text>
-    <text x="16" y="46" class="f-sans c-desc">Native macOS deep cleaning &amp; disk space reclamation suite.</text>
-    <text x="16" y="64" class="f-mono" font-size="10.5" fill="#3fb950">❯ Reclaims gigabytes safely · Developer caches</text>
+    <text x="16" y="46" class="f-sans c-desc">Native macOS deep cleaning native application (&lt;2MB btw).</text>
+    <text x="16" y="64" class="f-mono" font-size="10.5" fill="#3fb950">❯ Reclaims gigabytes safely · Built on dcmmlib</text>
   </g>
 
   <g transform="translate(436, 46)">
@@ -47,8 +47,8 @@
     <text x="16" y="26" class="f-sans c-title">⚙️ dcmmlib</text>
     <rect x="295" y="12" width="80" height="18" rx="9" fill="#238636" fill-opacity="0.2" stroke="#3fb950" stroke-opacity="0.4"/>
     <text x="335" y="25" fill="#7ee787" class="c-tag" text-anchor="middle">Core Engine</text>
-    <text x="16" y="46" class="f-sans c-desc">High-performance core systems library backing DeepCleanMyMac.</text>
-    <text x="16" y="64" class="f-mono" font-size="10.5" fill="#79c0ff">❯ High-speed filesystem traversal &amp; sanitization</text>
+    <text x="16" y="46" class="f-sans c-desc">High-performance core framework powering DeepCleanMyMac.</text>
+    <text x="16" y="64" class="f-mono" font-size="10.5" fill="#79c0ff">❯ Developed in pure C and C++</text>
   </g>
 
   <!-- Row 2: mux & mux.dev -->
@@ -56,7 +56,7 @@
     <rect width="390" height="80" rx="8" fill="url(#cardBg)" stroke="url(#cardBorder)" stroke-width="1"/>
     <text x="16" y="26" class="f-sans c-title">📦 mux (Rust CLI)</text>
     <rect x="305" y="12" width="70" height="18" rx="9" fill="#d29922" fill-opacity="0.2" stroke="#f0883e" stroke-opacity="0.4"/>
-    <text x="340" y="25" fill="#dea584" class="c-tag" text-anchor="middle">Rust CLI</text>
+    <text x="340" y="25" fill="#dea584" class="c-tag" text-anchor="middle">Native CLI</text>
     <text x="16" y="46" class="f-sans c-desc">Cargo-like project workflow &amp; dependency manager for C/C++.</text>
     <text x="16" y="64" class="f-mono" font-size="10.5" fill="#dea584">❯ Scaffold, build, run, test &amp; package orchestration</text>
   </g>
@@ -67,7 +67,7 @@
     <rect x="295" y="12" width="80" height="18" rx="9" fill="#1f6feb" fill-opacity="0.2" stroke="#388bfd" stroke-opacity="0.4"/>
     <text x="335" y="25" fill="#79c0ff" class="c-tag" text-anchor="middle">Next.js Web</text>
     <text x="16" y="46" class="f-sans c-desc">Official Next.js product site &amp; interactive docs for mux.</text>
-    <text x="16" y="64" class="f-mono" font-size="10.5" fill="#79c0ff">❯ themux.dev · Product showcases &amp; installer scripts</text>
+    <text x="16" y="64" class="f-mono" font-size="10.5" fill="#79c0ff">❯ themux.dev · Next.js + TypeScript + DaisyUI</text>
   </g>
 
   <!-- Row 3: Portfolio & Loggers -->
@@ -75,9 +75,9 @@
     <rect width="390" height="80" rx="8" fill="url(#cardBg)" stroke="url(#cardBorder)" stroke-width="1"/>
     <text x="16" y="26" class="f-sans c-title">💼 Portfolio (dhanushhv.com)</text>
     <rect x="295" y="12" width="80" height="18" rx="9" fill="#8957e5" fill-opacity="0.2" stroke="#a371f7" stroke-opacity="0.4"/>
-    <text x="335" y="25" fill="#d2a8ff" class="c-tag" text-anchor="middle">Next.js 14</text>
-    <text x="16" y="46" class="f-sans c-desc">Personal engineering canvas with micro-interactions.</text>
-    <text x="16" y="64" class="f-mono" font-size="10.5" fill="#d2a8ff">❯ dhanushhv.com · 60fps edge-native architecture</text>
+    <text x="335" y="25" fill="#d2a8ff" class="c-tag" text-anchor="middle">Next.js Web</text>
+    <text x="16" y="46" class="f-sans c-desc">Personal full-stack portfolio website in Next.js.</text>
+    <text x="16" y="64" class="f-mono" font-size="10.5" fill="#d2a8ff">❯ dhanushhv.com · Next.js + TypeScript + shadcn-ui</text>
   </g>
 
   <g transform="translate(436, 226)">

@@ -42,38 +42,18 @@
 ### `❯` sysinfo --profile
 
 ```yaml
-identity:
+self:
   engineer: "Dhanush H V"
-  focus: "Full-Stack Web & Systems Engineering"
-  location: "Bengaluru, India (IST / UTC+5:30)"
-  status: "🟢 Architecting high-speed developer tooling & edge-native web products"
-
-engineering_ethos:
-  systems: "Zero-cost abstractions, minimal footprints, instantaneous CLI execution"
-  web_apps: "Micro-interactions, 60fps fluidity, design-engineered performance"
-
-flagship_pillars:
-  - " DeepCleanMyMac — Native macOS deep cleaning & space reclamation suite"
-  - "⚙️ dcmmlib — High-performance core systems library & scanning engine"
-  - "📦 mux — Cargo-like unified workflow CLI for C/C++ developers"
-  - "🌐 mux.dev (themux.dev) — Next.js product & documentation site for mux CLI"
-  - "💼 Portfolio — Modern Next.js 14 personal canvas (dhanushhv.com)"
-  - "⚡ c-logger & 🛡️ cpp-logger — Zero-overhead, high-speed C/C++ logging libraries"
+  focus: "Software Design & Development"
+  work: "Software Developer - Remote, Ex-Amazon L4 Software Engineer", 4+ years of experience
+  status: "🟢 Currently developing a cross-platform framework dcmmlib and a native macOS application DeepCleanMyMac"
 ```
 
 <p align="center">
   <img src="./profile/divider.svg" alt="divider" width="100%" />
 </p>
 
-## 🚀 Flagship Arsenal
-
-<div align="center">
-
-<img src="./profile/flagships.svg" alt="Flagship Projects Overview" width="100%" />
-
-</div>
-
-<br/>
+## 🚀 Flagship works
 
 <!-- Detailed Flagship Breakdown -->
 <table>
@@ -86,19 +66,19 @@ flagship_pillars:
 
 ### 1. **[DeepCleanMyMac](https://github.com/DHANUSH-web/DeepCleanMyMac)**
 `macOS` · `Native Utility` · `Storage Optimization`  
-> Native macOS deep system cleanup and disk space reclamation utility. Safely scrubs developer caches, Xcode derived data, orphaned package dependencies, and system detritus without touching critical data.
+> A Native macOS application to scan Mac HD and clean heavy unnecessary junk, developed with AppKit and Objective-C++ powered by dcmmlib, and entire application with <2MB of total bundle size
 
 ---
 
 ### 2. **[dcmmlib](https://github.com/DHANUSH-web/dcmmlib)**
-`Systems Library` · `High-Throughput` · `Engine`  
-> The high-performance core engine and disk traversal library backing **DeepCleanMyMac**. Engineered for safe, high-speed filesystem scanning, permissions verification, and granular cache sanitization.
+`Systems Framework` · `High-Performance` · `DeepCleanMyMac Engine`  
+> The high-performance core engine and disk traversal framework backing **DeepCleanMyMac**. Engineered for safe, high-speed filesystem scanning, permissions verification, and cross-platform funtionalities to build cross-platform native applications with C++.
 
 ---
 
 ### 3. **[c-logger](https://github.com/DHANUSH-web/c-logger)**
-`C` · `Header-Only` · `Zero-Alloc`  
-> Zero-overhead, single-header C logging library with color-coded ANSI severity output, custom prefixes, and zero dynamic heap allocations.
+`C` · `Header-Only`
+> A simple, tiny header library developed in pure C to provide easy accesss to logging utilities with built-in buffer manager to scaffold all logger instances at once
 
 </td>
 <td valign="top">
@@ -106,19 +86,19 @@ flagship_pillars:
 ### 4. **[mux (Rust CLI)](https://github.com/DHANUSH-web/mux)** &amp; **[mux.dev](https://themux.dev)**
 `Rust` · `CLI` · `Next.js` · [themux.dev](https://themux.dev)  
 > **mux** is a Cargo-like CLI workflow tool for C/C++ development (scaffolding, building with Clang/GCC/MSVC, testing, and dependency management).  
-> **[mux.dev](https://themux.dev)** is its dedicated product site built with Next.js, hosting dynamic documentation, benchmarks, and installation scripts.
+> **[mux.dev](https://themux.dev)** is its dedicated product site built with Next.js, hosting dynamic documentation, and installation scripts.
 
 ---
 
-### 5. **[Portfolio Canvas](https://dhanushhv.com)**
-`Next.js 14` · `TypeScript` · `Tailwind CSS` · `Edge Compute`  
+### 5. **[Portfolio Website](https://dhanushhv.com)**
+`Next.js` · `TypeScript` · `Tailwind CSS` · `DaisyUI` · `Firebase` · `Vercel`
 > Personal engineering home & experiment canvas designed with fluid micro-interactions, dark aesthetic precision, and 60fps performance budgets.
 
 ---
 
 ### 6. **[cpp-logger](https://github.com/DHANUSH-web/cpp-logger)**
-`C++17/20` · `Header-Only` · `Thread-Safe`  
-> Type-safe, thread-safe modern C++ logging framework built with minimal compile overhead and zero runtime bottlenecks.
+`C++17/20` · `Header-Only`  
+> Type-safe modern C++ logging header library built with minimal compile overhead and zero runtime bottlenecks.
 
 </td>
 </tr>
@@ -126,6 +106,7 @@ flagship_pillars:
 
 <br/>
 
+## Active Flagship Projects
 <!-- 1. DeepCleanMyMac Spotlight Banner -->
 <div align="center">
 
