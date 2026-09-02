@@ -88,16 +88,16 @@ curl -fsSL https://themux.dev/install.sh | sh
 
 <p align="center">
   <a href="https://github.com/DHANUSH-web/mux">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DHANUSH-web&repo=mux&hide_border=true&bg_color=0D1117&title_color=79C0FF&text_color=C9D1D9&icon_color=3FB950" alt="mux" />
+    <img src="./profile/pin-mux.svg" alt="mux" />
   </a>
   <a href="https://github.com/DHANUSH-web/c-logger">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DHANUSH-web&repo=c-logger&hide_border=true&bg_color=0D1117&title_color=79C0FF&text_color=C9D1D9&icon_color=3FB950" alt="c-logger" />
+    <img src="./profile/pin-c-logger.svg" alt="c-logger" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/DHANUSH-web/cpp-logger">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DHANUSH-web&repo=cpp-logger&hide_border=true&bg_color=0D1117&title_color=79C0FF&text_color=C9D1D9&icon_color=3FB950" alt="cpp-logger" />
+    <img src="./profile/pin-cpp-logger.svg" alt="cpp-logger" />
   </a>
 </p>
 
@@ -139,16 +139,12 @@ curl -fsSL https://themux.dev/install.sh | sh
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DHANUSH-web&show_icons=true&hide_border=true&bg_color=0D1117&title_color=79C0FF&text_color=C9D1D9&icon_color=3FB950&ring_color=3FB950" alt="GitHub stats" />
+  <img src="./profile/stats.svg" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com/?user=DHANUSH-web&hide_border=true&background=0D1117&ring=3FB950&fire=D29922&currStreakLabel=79C0FF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHANUSH-web&layout=compact&hide_border=true&bg_color=0D1117&title_color=79C0FF&text_color=C9D1D9" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DHANUSH-web&bg_color=0D1117&color=C9D1D9&line=3FB950&point=79C0FF&area=true&hide_border=true&area_color=3FB950" alt="Contribution graph" />
+  <img src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 <p align="center">
