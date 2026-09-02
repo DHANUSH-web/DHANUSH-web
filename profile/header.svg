@@ -41,29 +41,21 @@
       <stop offset="100%" stop-color="#a371f7" stop-opacity="0.1"/>
     </linearGradient>
 
-    <!-- Glow Filter -->
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="12" result="blur" />
-      <feComposite in="SourceGraphic" in2="blur" operator="over" />
-    </filter>
-
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600;700&amp;family=Inter:wght@400;600;800;900&amp;display=swap');
-      
       .title-text {
-        font-family: 'Inter', system-ui, -apple-system, sans-serif;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
         font-weight: 900;
         font-size: 38px;
         letter-spacing: -1px;
       }
       .tag-text {
-        font-family: 'Fira Code', monospace;
+        font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
         font-weight: 600;
         font-size: 13px;
         letter-spacing: 0.5px;
       }
       .code-prompt {
-        font-family: 'Fira Code', monospace;
+        font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
         font-size: 13.5px;
         fill: #79C0FF;
       }
@@ -74,24 +66,11 @@
         0%, 100% { opacity: 1; }
         50% { opacity: 0; }
       }
-      .glow-orb {
-        animation: pulse 4s ease-in-out infinite alternate;
-      }
-      @keyframes pulse {
-        0% { transform: scale(1) translate(0, 0); opacity: 0.3; }
-        100% { transform: scale(1.15) translate(-10px, 10px); opacity: 0.5; }
-      }
     </style>
   </defs>
 
   <!-- Card Background -->
   <rect x="2" y="2" width="846" height="236" rx="14" fill="url(#bgGrad)" stroke="url(#borderGrad)" stroke-width="1.5"/>
-
-  <!-- Ambient Glow Orbs -->
-  <g filter="url(#glow)">
-    <circle cx="750" cy="50" r="70" fill="#238636" class="glow-orb" opacity="0.3"/>
-    <circle cx="100" cy="190" r="60" fill="#1f6feb" class="glow-orb" opacity="0.25"/>
-  </g>
 
   <!-- Terminal Window Bar -->
   <path d="M 2 16 Q 2 2 16 2 L 834 2 Q 848 2 848 16 L 848 38 L 2 38 Z" fill="#161b22" fill-opacity="0.8"/>
@@ -103,46 +82,46 @@
   <circle cx="54" cy="20" r="5.5" fill="#27c93f"/>
 
   <!-- Window Title -->
-  <text x="425" y="24" fill="#8b949e" font-family="'Fira Code', monospace" font-size="11.5" text-anchor="middle" font-weight="500">dhanush@bengaluru: ~ (zsh)</text>
+  <text x="425" y="24" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" text-anchor="middle" font-weight="500">dhanush@bengaluru: ~ (zsh)</text>
 
   <!-- Main Hero Content -->
   <!-- Name / Brand -->
   <text x="40" y="88" fill="url(#titleGrad)" class="title-text">DHANUSH H V</text>
 
   <!-- Role / Subtitle -->
-  <text x="40" y="116" fill="url(#subGrad)" font-family="'Inter', sans-serif" font-size="15" font-weight="600" letter-spacing="1">Software Developer</text>
+  <text x="40" y="116" fill="url(#subGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="600" letter-spacing="1">FULL-STACK &amp; SYSTEMS CRAFTSMAN</text>
 
   <!-- Terminal Command Line Prompt -->
   <g transform="translate(40, 138)">
     <rect x="0" y="0" width="770" height="36" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
     <text x="14" y="23" class="code-prompt">
-      <tspan fill="#3fb950">❯ </tspan><tspan fill="#79c0ff">flagships</tspan><tspan fill="#c9d1d9"> [DeepCleanMyMac, dcmmlib, YouTube Explorer, mux, Portfolio, themux.dev]</tspan>
+      <tspan fill="#3fb950">❯ </tspan><tspan fill="#79c0ff">load-flagships</tspan><tspan fill="#c9d1d9"> [DeepCleanMyMac, dcmmlib, mux, portfolio, c/cpp-logger]</tspan>
     </text>
     <rect x="670" y="10" width="8" height="15" fill="#58a6ff" class="cursor"/>
   </g>
 
   <!-- Skill Pill Badges inside Hero Banner -->
   <g transform="translate(40, 192)">
-    <!-- Pill 1: Web -->
-    <rect x="192" y="0" width="165" height="26" rx="13" fill="url(#pillGrad2)" stroke="#3fb950" stroke-opacity="0.4" stroke-width="1"/>
-    <circle cx="204" cy="13" r="4" fill="#3fb950"/>
-    <text x="216" y="17" fill="#7ee787" class="tag-text">Next.js &amp; Web</text>
-
-    <!-- Pill 2: Systems -->
+    <!-- Pill 1: Systems -->
     <rect x="0" y="0" width="180" height="26" rx="13" fill="url(#pillGrad1)" stroke="#388bfd" stroke-opacity="0.4" stroke-width="1"/>
     <circle cx="12" cy="13" r="4" fill="#58a6ff"/>
     <text x="24" y="17" fill="#79c0ff" class="tag-text">macOS &amp; Systems</text>
 
-    <!-- Pill 3: API -->
+    <!-- Pill 2: Web -->
+    <rect x="192" y="0" width="165" height="26" rx="13" fill="url(#pillGrad2)" stroke="#3fb950" stroke-opacity="0.4" stroke-width="1"/>
+    <circle cx="204" cy="13" r="4" fill="#3fb950"/>
+    <text x="216" y="17" fill="#7ee787" class="tag-text">Next.js &amp; Web</text>
+
+    <!-- Pill 3: Location -->
     <rect x="369" y="0" width="175" height="26" rx="13" fill="url(#pillGrad3)" stroke="#a371f7" stroke-opacity="0.4" stroke-width="1"/>
     <circle cx="381" cy="13" r="4" fill="#bc8cff"/>
-    <text x="393" y="17" fill="#d2a8ff" class="tag-text">Python &amp; Express.js</text>
+    <text x="393" y="17" fill="#d2a8ff" class="tag-text">Bengaluru, IN (IST)</text>
 
     <!-- Pill 4: Status -->
     <g transform="translate(556, 0)">
       <rect x="0" y="0" width="214" height="26" rx="13" fill="#161b22" stroke="#30363d" stroke-width="1"/>
       <circle cx="14" cy="13" r="4" fill="#3fb950" class="cursor"/>
-      <text x="26" y="17" fill="#c9d1d9" class="tag-text">Status: Active on DCMM</text>
+      <text x="26" y="17" fill="#c9d1d9" class="tag-text">Status: Shipping Fast</text>
     </g>
   </g>
 </svg>

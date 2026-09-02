@@ -15,22 +15,14 @@
       <stop offset="60%" stop-color="#dea584"/>
       <stop offset="100%" stop-color="#79c0ff"/>
     </linearGradient>
-    <filter id="glowMux" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="20" result="blur"/>
-      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
-    </filter>
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@500;600;700&amp;family=Inter:wght@700;800;900&amp;display=swap');
-      .mono { font-family: 'Fira Code', monospace; }
-      .sans { font-family: 'Inter', system-ui, sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
     </style>
   </defs>
 
   <!-- Background Box -->
   <rect x="2" y="2" width="846" height="171" rx="12" fill="url(#muxBg)" stroke="url(#muxBorder)" stroke-width="1.5"/>
-
-  <!-- Ambient Glow -->
-  <circle cx="425" cy="85" r="90" fill="#f0883e" opacity="0.15" filter="url(#glowMux)"/>
 
   <!-- Centered Content -->
   <!-- 1. Top Badge -->
@@ -49,7 +41,7 @@
   <g transform="translate(425, 126)">
     <rect x="-240" y="0" width="480" height="28" rx="14" fill="#0d0a15" stroke="#30363d" stroke-width="1"/>
     <text x="0" y="18" fill="#8b949e" font-size="11.5" class="mono" text-anchor="middle">
-      <tspan fill="#3fb950">⚡ Instant Scaffold</tspan> &nbsp;·&nbsp; <tspan fill="#58a6ff">📦 Fast Builds</tspan> &nbsp;·&nbsp; <tspan fill="#d2a8ff">🧪 Tests &amp; Dependencies</tspan>
+      <tspan fill="#3fb950">Native Binary</tspan> &#160;·&#160; <tspan fill="#58a6ff">Pure Rust</tspan> &#160;·&#160; <tspan fill="#d2a8ff">Cross Platform</tspan>
     </text>
   </g>
 </svg>

@@ -134,8 +134,7 @@ self:
 <br/><br/>
 
 [![dcmmlib Repo](https://img.shields.io/badge/Repository-dcmmlib-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DHANUSH-web/dcmmlib)
-[![Type](https://img.shields.io/badge/Architecture-Core_Systems_Engine-56d364?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DHANUSH-web/dcmmlib)
-[![Performance](https://img.shields.io/badge/Throughput-480k_inodes%2Fsec-79C0FF?style=for-the-badge&logo=speedtest&logoColor=white)](https://github.com/DHANUSH-web/dcmmlib)
+[![Type](https://img.shields.io/badge/Type-Core_Engine_Framework-56d364?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DHANUSH-web/dcmmlib)
 
 </div>
 
