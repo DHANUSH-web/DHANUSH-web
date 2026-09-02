@@ -1,0 +1,102 @@
+<svg width="850" height="420" viewBox="0 0 850 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0e131f"/>
+      <stop offset="100%" stop-color="#141a24"/>
+    </linearGradient>
+    <linearGradient id="cardBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#30363d"/>
+      <stop offset="50%" stop-color="#58a6ff" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#30363d"/>
+    </linearGradient>
+    <linearGradient id="flagTitleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#79C0FF"/>
+      <stop offset="100%" stop-color="#56D364"/>
+    </linearGradient>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600;700&amp;family=Inter:wght@600;700;800;900&amp;display=swap');
+      .f-mono { font-family: 'Fira Code', monospace; }
+      .f-sans { font-family: 'Inter', system-ui, sans-serif; }
+      .c-title { font-weight: 800; font-size: 15px; fill: #ffffff; }
+      .c-desc { font-weight: 400; font-size: 11.5px; fill: #8b949e; }
+      .c-tag { font-family: 'Fira Code', monospace; font-size: 9.5px; font-weight: 600; }
+    </style>
+  </defs>
+
+  <!-- Container Box -->
+  <rect x="2" y="2" width="846" height="416" rx="12" fill="#090d13" stroke="#21262d" stroke-width="1.5"/>
+
+  <!-- Section Header Inside SVG -->
+  <g transform="translate(24, 24)">
+    <circle cx="6" cy="6" r="4" fill="#3fb950"/>
+    <text x="18" y="10" fill="url(#flagTitleGrad)" font-size="13" font-weight="800" class="f-sans" letter-spacing="1">FLAGSHIP ARSENAL · SYSTEMS, APPS &amp; WEB PLATFORMS</text>
+  </g>
+
+  <!-- Row 1: DeepCleanMyMac & dcmmlib -->
+  <g transform="translate(24, 46)">
+    <rect width="390" height="80" rx="8" fill="url(#cardBg)" stroke="url(#cardBorder)" stroke-width="1"/>
+    <text x="16" y="26" class="f-sans c-title"> DeepCleanMyMac</text>
+    <rect x="290" y="12" width="85" height="18" rx="9" fill="#1f6feb" fill-opacity="0.2" stroke="#388bfd" stroke-opacity="0.4"/>
+    <text x="332" y="25" fill="#79c0ff" class="c-tag" text-anchor="middle">macOS App</text>
+    <text x="16" y="46" class="f-sans c-desc">Native macOS deep cleaning &amp; disk space reclamation suite.</text>
+    <text x="16" y="64" class="f-mono" font-size="10.5" fill="#3fb950">❯ Reclaims gigabytes safely · Developer caches</text>
+  </g>
+
+  <g transform="translate(436, 46)">
+    <rect width="390" height="80" rx="8" fill="url(#cardBg)" stroke="url(#cardBorder)" stroke-width="1"/>
+    <text x="16" y="26" class="f-sans c-title">⚙️ dcmmlib</text>
+    <rect x="295" y="12" width="80" height="18" rx="9" fill="#238636" fill-opacity="0.2" stroke="#3fb950" stroke-opacity="0.4"/>
+    <text x="335" y="25" fill="#7ee787" class="c-tag" text-anchor="middle">Core Engine</text>
+    <text x="16" y="46" class="f-sans c-desc">High-performance core systems library backing DeepCleanMyMac.</text>
+    <text x="16" y="64" class="f-mono" font-size="10.5" fill="#79c0ff">❯ High-speed filesystem traversal &amp; sanitization</text>
+  </g>
+
+  <!-- Row 2: mux & mux.dev -->
+  <g transform="translate(24, 136)">
+    <rect width="390" height="80" rx="8" fill="url(#cardBg)" stroke="url(#cardBorder)" stroke-width="1"/>
+    <text x="16" y="26" class="f-sans c-title">📦 mux (Rust CLI)</text>
+    <rect x="305" y="12" width="70" height="18" rx="9" fill="#d29922" fill-opacity="0.2" stroke="#f0883e" stroke-opacity="0.4"/>
+    <text x="340" y="25" fill="#dea584" class="c-tag" text-anchor="middle">Rust CLI</text>
+    <text x="16" y="46" class="f-sans c-desc">Cargo-like project workflow &amp; dependency manager for C/C++.</text>
+    <text x="16" y="64" class="f-mono" font-size="10.5" fill="#dea584">❯ Scaffold, build, run, test &amp; package orchestration</text>
+  </g>
+
+  <g transform="translate(436, 136)">
+    <rect width="390" height="80" rx="8" fill="url(#cardBg)" stroke="url(#cardBorder)" stroke-width="1"/>
+    <text x="16" y="26" class="f-sans c-title">🌐 mux.dev (Product Web)</text>
+    <rect x="295" y="12" width="80" height="18" rx="9" fill="#1f6feb" fill-opacity="0.2" stroke="#388bfd" stroke-opacity="0.4"/>
+    <text x="335" y="25" fill="#79c0ff" class="c-tag" text-anchor="middle">Next.js Web</text>
+    <text x="16" y="46" class="f-sans c-desc">Official Next.js product site &amp; interactive docs for mux.</text>
+    <text x="16" y="64" class="f-mono" font-size="10.5" fill="#79c0ff">❯ themux.dev · Product showcases &amp; installer scripts</text>
+  </g>
+
+  <!-- Row 3: Portfolio & Loggers -->
+  <g transform="translate(24, 226)">
+    <rect width="390" height="80" rx="8" fill="url(#cardBg)" stroke="url(#cardBorder)" stroke-width="1"/>
+    <text x="16" y="26" class="f-sans c-title">💼 Portfolio (dhanushhv.com)</text>
+    <rect x="295" y="12" width="80" height="18" rx="9" fill="#8957e5" fill-opacity="0.2" stroke="#a371f7" stroke-opacity="0.4"/>
+    <text x="335" y="25" fill="#d2a8ff" class="c-tag" text-anchor="middle">Next.js 14</text>
+    <text x="16" y="46" class="f-sans c-desc">Personal engineering canvas with micro-interactions.</text>
+    <text x="16" y="64" class="f-mono" font-size="10.5" fill="#d2a8ff">❯ dhanushhv.com · 60fps edge-native architecture</text>
+  </g>
+
+  <g transform="translate(436, 226)">
+    <rect width="390" height="80" rx="8" fill="url(#cardBg)" stroke="url(#cardBorder)" stroke-width="1"/>
+    <text x="16" y="26" class="f-sans c-title">⚡ c-logger &amp; 🛡️ cpp-logger</text>
+    <rect x="280" y="12" width="95" height="18" rx="9" fill="#238636" fill-opacity="0.2" stroke="#3fb950" stroke-opacity="0.4"/>
+    <text x="327" y="25" fill="#7ee787" class="c-tag" text-anchor="middle">C / C++ Libs</text>
+    <text x="16" y="46" class="f-sans c-desc">Zero-overhead, single-header C &amp; C++17/20 logging libraries.</text>
+    <text x="16" y="64" class="f-mono" font-size="10.5" fill="#3fb950">❯ Zero-alloc · Thread-safe · Minimal binary size</text>
+  </g>
+
+  <!-- Bottom Interactive Note -->
+  <g transform="translate(24, 320)">
+    <rect width="802" height="76" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+    <text x="18" y="28" fill="#79c0ff" font-family="'Fira Code', monospace" font-size="12" font-weight="600">
+      <tspan fill="#3fb950">❯ </tspan>mux.dev architecture: <tspan fill="#c9d1d9">Built with Next.js App Router, Tailwind CSS &amp; Vercel Edge</tspan>
+    </text>
+    <text x="18" y="52" fill="#8b949e" font-family="'Inter', sans-serif" font-size="11.5">
+      Provides one-line shell installers, release notes, live documentation, and interactive playground for the mux CLI toolchain.
+    </text>
+  </g>
+</svg>
