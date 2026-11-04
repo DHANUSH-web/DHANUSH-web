@@ -31,10 +31,10 @@
     <text x="18" y="10" fill="url(#flagTitleGrad)" font-size="13" font-weight="800" class="f-sans" letter-spacing="1">FLAGSHIP ARSENAL · SYSTEMS, APPS &amp; WEB PLATFORMS</text>
   </g>
 
-  <!-- Row 1: DeepCleanMyMac & dcmmlib -->
+  <!-- Row 1: Opabinia & opalib -->
   <g transform="translate(24, 46)">
     <rect width="390" height="80" rx="8" fill="url(#cardBg)" stroke="url(#cardBorder)" stroke-width="1"/>
-    <text x="16" y="26" class="f-sans c-title"> DeepCleanMyMac</text>
+    <text x="16" y="26" class="f-sans c-title"> Opabinia</text>
     <rect x="290" y="12" width="85" height="18" rx="9" fill="#1f6feb" fill-opacity="0.2" stroke="#388bfd" stroke-opacity="0.4"/>
     <text x="332" y="25" fill="#79c0ff" class="c-tag" text-anchor="middle">macOS App</text>
     <text x="16" y="46" class="f-sans c-desc">Native macOS deep cleaning &amp; disk space reclamation suite.</text>
@@ -43,10 +43,10 @@
 
   <g transform="translate(436, 46)">
     <rect width="390" height="80" rx="8" fill="url(#cardBg)" stroke="url(#cardBorder)" stroke-width="1"/>
-    <text x="16" y="26" class="f-sans c-title">⚙️ dcmmlib</text>
+    <text x="16" y="26" class="f-sans c-title">⚙️ opalib</text>
     <rect x="295" y="12" width="80" height="18" rx="9" fill="#238636" fill-opacity="0.2" stroke="#3fb950" stroke-opacity="0.4"/>
     <text x="335" y="25" fill="#7ee787" class="c-tag" text-anchor="middle">Core Engine</text>
-    <text x="16" y="46" class="f-sans c-desc">High-performance core systems library backing DeepCleanMyMac.</text>
+    <text x="16" y="46" class="f-sans c-desc">High-performance core systems library backing Opabinia.</text>
     <text x="16" y="64" class="f-mono" font-size="10.5" fill="#79c0ff">❯ High-speed filesystem traversal &amp; sanitization</text>
   </g>
 

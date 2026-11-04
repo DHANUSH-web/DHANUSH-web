@@ -19,7 +19,7 @@
 
 <!-- Real-time Typing Subtitles -->
 <a href="https://dhanushhv.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=1000&color=79C0FF&center=true&vCenter=true&width=750&lines=Building+high-throughput+systems+in+Rust%2C+C%2B%2B+%26+macOS;Creator+of+DeepCleanMyMac%2C+dcmmlib+%26+mux;Crafting+60fps+web+experiences+with+Next.js+%26+Tailwind;Writing+zero-overhead+libraries+and+reactive+UIs" alt="Dynamic Typing Subtitles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=1000&color=79C0FF&center=true&vCenter=true&width=750&lines=Building+high-throughput+systems+in+Rust%2C+C%2B%2B+%26+macOS;Creator+of+Opabinia%2C+opalib+%26+mux;Crafting+60fps+web+experiences+with+Next.js+%26+Tailwind;Writing+zero-overhead+libraries+and+reactive+UIs" alt="Dynamic Typing Subtitles" />
 </a>
 
 <br/>
@@ -46,7 +46,7 @@ self:
   engineer: "Dhanush H V"
   focus: "Software Design & Development"
   work: "Software Developer - Remote, Ex-Amazon L4 Software Engineer", 4+ years of experience
-  status: "🟢 Currently developing a cross-platform framework dcmmlib and a native macOS application DeepCleanMyMac"
+  status: "🟢 Currently developing a cross-platform framework opalib and a native macOS application Opabinia"
 ```
 
 <p align="center">
@@ -64,15 +64,15 @@ self:
 <tr>
 <td valign="top">
 
-### 1. **[DeepCleanMyMac](https://github.com/DHANUSH-web/DeepCleanMyMac)**
+### 1. **[Opabinia](https://github.com/DHANUSH-web/opabinia-desktop)**
 `macOS` · `Native Utility` · `Storage Optimization`  
-> A Native macOS application to scan Mac HD and clean heavy unnecessary junk, developed with AppKit and Objective-C++ powered by dcmmlib, and entire application with <2MB of total bundle size
+> A Native macOS application to scan Mac HD and clean heavy unnecessary junk, developed with AppKit and Objective-C++ powered by opalib, and entire application with <2MB of total bundle size
 
 ---
 
-### 2. **[dcmmlib](https://github.com/DHANUSH-web/dcmmlib)**
-`Systems Framework` · `High-Performance` · `DeepCleanMyMac Engine`  
-> The high-performance core engine and disk traversal framework backing **DeepCleanMyMac**. Engineered for safe, high-speed filesystem scanning, permissions verification, and cross-platform funtionalities to build cross-platform native applications with C++.
+### 2. **[opalib](https://github.com/DHANUSH-web/opalib)**
+`Systems Framework` · `High-Performance` · `Opabinia Engine`  
+> The high-performance core engine and disk traversal framework backing **Opabinia**. Engineered for safe, high-speed filesystem scanning, permissions verification, and cross-platform funtionalities to build cross-platform native applications with C++.
 
 ---
 
@@ -107,34 +107,34 @@ self:
 <br/>
 
 ## Active Flagship Projects
-<!-- 1. DeepCleanMyMac Spotlight Banner -->
+<!-- 1. Opabinia Spotlight Banner -->
 <div align="center">
 
-<a href="https://github.com/DHANUSH-web/DeepCleanMyMac">
-  <img src="./profile/dcmm-spotlight.svg" alt="DeepCleanMyMac Spotlight Banner" width="100%" />
+<a href="https://github.com/DHANUSH-web/opabinia-desktop">
+  <img src="./profile/opa-spotlight.svg" alt="Opabinia Spotlight Banner" width="100%" />
 </a>
 
 <br/><br/>
 
-[![DeepCleanMyMac Repo](https://img.shields.io/badge/Repository-DeepCleanMyMac-1f6feb?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/DHANUSH-web/DeepCleanMyMac)
-[![Platform](https://img.shields.io/badge/Platform-macOS_Native-79C0FF?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/DHANUSH-web/DeepCleanMyMac)
-[![Engine](https://img.shields.io/badge/Powered_By-dcmmlib-238636?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/DHANUSH-web/dcmmlib)
+[![Opabinia Repo](https://img.shields.io/badge/Repository-Opabinia-1f6feb?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/DHANUSH-web/opabinia-desktop)
+[![Platform](https://img.shields.io/badge/Platform-macOS_Native-79C0FF?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/DHANUSH-web/opabinia-desktop)
+[![Engine](https://img.shields.io/badge/Powered_By-opalib-238636?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/DHANUSH-web/opalib)
 
 </div>
 
 <br/>
 
-<!-- 2. dcmmlib Spotlight Banner -->
+<!-- 2. opalib Spotlight Banner -->
 <div align="center">
 
-<a href="https://github.com/DHANUSH-web/dcmmlib">
-  <img src="./profile/dcmmlib-spotlight.svg" alt="dcmmlib Spotlight Banner" width="100%" />
+<a href="https://github.com/DHANUSH-web/opalib">
+  <img src="./profile/opalib-spotlight.svg" alt="opalib Spotlight Banner" width="100%" />
 </a>
 
 <br/><br/>
 
-[![dcmmlib Repo](https://img.shields.io/badge/Repository-dcmmlib-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DHANUSH-web/dcmmlib)
-[![Type](https://img.shields.io/badge/Type-Core_Engine_Framework-56d364?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DHANUSH-web/dcmmlib)
+[![opalib Repo](https://img.shields.io/badge/Repository-opalib-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DHANUSH-web/opalib)
+[![Type](https://img.shields.io/badge/Type-Core_Engine_Framework-56d364?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DHANUSH-web/opalib)
 
 </div>
 

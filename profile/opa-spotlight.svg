@@ -32,7 +32,7 @@
   </g>
 
   <!-- 2. Main Title -->
-  <text x="425" y="76" fill="url(#dcmmTitleGrad)" font-size="28" font-weight="900" class="sans" text-anchor="middle" letter-spacing="-0.5">DeepCleanMyMac</text>
+  <text x="425" y="76" fill="url(#dcmmTitleGrad)" font-size="28" font-weight="900" class="sans" text-anchor="middle" letter-spacing="-0.5">Opabinia</text>
 
   <!-- 3. Subtitle -->
   <text x="425" y="104" fill="#c9d1d9" font-size="13.5" font-weight="400" class="sans" text-anchor="middle">Native macOS deep system cleanup, developer cache sanitizer &amp; space reclaimer</text>

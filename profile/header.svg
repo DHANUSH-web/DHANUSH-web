@@ -95,7 +95,7 @@
   <g transform="translate(40, 138)">
     <rect x="0" y="0" width="770" height="36" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
     <text x="14" y="23" class="code-prompt">
-      <tspan fill="#3fb950">❯ </tspan><tspan fill="#79c0ff">projects</tspan><tspan fill="#c9d1d9"> [DeepCleanMyMac, dcmmlib, mux, YouTube Explorer, portfolio, mux.dev]</tspan>
+      <tspan fill="#3fb950">❯ </tspan><tspan fill="#79c0ff">projects</tspan><tspan fill="#c9d1d9"> [Opabinia, opalib, mux, YouTube Explorer, portfolio, mux.dev]</tspan>
     </text>
     <rect x="670" y="10" width="8" height="15" fill="#58a6ff" class="cursor"/>
   </g>
